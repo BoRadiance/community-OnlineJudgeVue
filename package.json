@@ -24,7 +24,7 @@
     "highcharts": "^7.1.2",
     "highlight.js": "^9.15.10",
     "jq-fakeloader": "^2.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "tinymce": "^4.9.6",
     "v-viewer": "^1.4.2",
     "vue": "^2.5.2",
